@@ -32,7 +32,7 @@ Copy `parameters.h.dist` to `parameters.h` and change it to your settings
 
 ## Librairies
 
-- [baldram/ESP_VS1053_Library](https://github.com/baldram/ESP_VS1053_Library/) : `cd Arduino/libraries && git clone https//github.com/baldram/ESP_VS1053_Library.git)
+- [baldram/ESP_VS1053_Library](https://github.com/baldram/ESP_VS1053_Library/) : `cd Arduino/libraries && git clone https//github.com/baldram/ESP_VS1053_Library.git)`
 - [ESP32-A2DP](https://github.com/pschatzmann/ESP32-A2DP.git)
 
 
