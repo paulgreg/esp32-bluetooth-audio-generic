@@ -11,7 +11,7 @@
 
 BluetoothA2DPSink a2dp_sink;
 
-#define VOLUME  80 // Default volume
+#define VOLUME  100 // Default volume
 
 void setup() {
   Serial.begin(115200);
